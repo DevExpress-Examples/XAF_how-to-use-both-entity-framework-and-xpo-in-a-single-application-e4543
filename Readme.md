@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [EntityFrameworkSampleObject.cs](./CS/MultipleORMsExample.Module/BusinessObjects/EntityFrameworkSampleObject.cs) (VB: [EntityFrameworkSampleObject.vb](./VB/MultipleORMsExample.Module/BusinessObjects/EntityFrameworkSampleObject.vb))
+* [XpoSampleObject.cs](./CS/MultipleORMsExample.Module/BusinessObjects/XpoSampleObject.cs) (VB: [XpoSampleObject.vb](./VB/MultipleORMsExample.Module/BusinessObjects/XpoSampleObject.vb))
+* [Updater.cs](./CS/MultipleORMsExample.Module/DatabaseUpdate/Updater.cs) (VB: [Updater.vb](./VB/MultipleORMsExample.Module/DatabaseUpdate/Updater.vb))
+* [WebApplication.cs](./CS/MultipleORMsExample.Web/WebApplication.cs) (VB: [WebApplication.vb](./VB/MultipleORMsExample.Web/WebApplication.vb))
+* **[WinApplication.cs](./CS/MultipleORMsExample.Win/WinApplication.cs) (VB: [WinApplication.vb](./VB/MultipleORMsExample.Win/WinApplication.vb))**
+<!-- default file list end -->
 # How to: Use both Entity Framework and XPO in a Single Application
 
 
